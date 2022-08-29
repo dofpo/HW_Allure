@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/y66bqh242ae7tsde?svg=true)](https://ci.appveyor.com/project/dofpo/hw-allure)
